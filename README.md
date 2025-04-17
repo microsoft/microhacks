@@ -1,16 +1,59 @@
-# Project
+![Alt text](docs/Microhacks%20OCTO%20logo.png "Microsoft Americas Office of the CTO")
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+# Microhacks
+Half day workshops. We build technical skills through hands-on application in key areas, while fostering a sense of community and collaboration. Created by Microsoft Americas Office of the CTO.
 
-As the maintainer of this project, please make a few updates:
+## Presented by Microsoft Americas Office of the CTO
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+## Microhack Oveview
+
+### Coaches Guide
+
+This guide provides everything you need to successfully plan, organize, and host a Microhack. Use this document as a roadmap to ensure a smooth and engaging workshop experience.
+
+This comprehensive Coaches Guide is designed to ensure that you are well-prepared to host a dynamic and effective Microhack, promoting technical skills, collaboration, and innovative problem-solving.
+
+* Start Here - [Coaches Guide](docs/Microhacks%20Coach%20Guide.pdf)
+
+#### Contents
+* Overview
+* What is a Microhack?
+* Core Assets
+  * Setting the Stage | PowerPoint Deck
+  * Microhack Challenges | PDF
+  * Microhack Repository | GitHub Repository
+  * Delivery Platform | Microsoft Teams (Virtual/Hybrid)
+* Microhack Topics
+  * [RAG AI](https://github.com/microsoft/microhacks-rag-ai)
+  * [Agentic AI](https://github.com/microsoft/microhacks-agentic-ai)
+* Delivery
+  * Coaches
+  * Attendee Teams
+  * Breakout Rooms (Virtual/Hybrid)
+  * Frequently Asked Questions
+
+
+## Setting the Stage
+Prepare for the hands-on content with our PowerPoint presentation that outlines session objectives, setup instructions, and key technical insights. This deck will help you get familiar with the workshop agenda and the tools you’ll be using.
+
+## Microhack Challenges
+
+Attendees will tackle a series of technical challenges that require the use of Microsoft Azure, Copilot Studio, and other Microsoft technologies to build secure, scalable, and data-driven solutions. Each challenge is designed to reinforce foundational skills in cloud computing, real-time analytics, and collaborative problem-solving.
+
+## Important Security Notice 
+
+This template, the application code and configuration it contains, has been built to showcase Microsoft Azure specific services and tools. We strongly advise our customers not to make this code part of their production environments without implementing or enabling additional security features.  
+
+For a more comprehensive list of best practices and security recommendations for Intelligent Applications, visit our [official documentation](https://learn.microsoft.com/azure/developer/ai/get-started-securing-your-ai-app).
+
+> [!WARNING]  
+>
+> **Some of the features used in this repository are in preview.** Preview versions are provided without a service level agreement, and they are not recommended for production workloads. Certain features might not be supported or might have constrained capabilities. For more information, see [Supplemental Terms of Use for Microsoft Azure Previews](https://azure.microsoft.com/en-us/support/legal/preview-supplemental-terms/).
+
 
 ## Contributing
+
+We welcome your comments and suggestions about this workshop! Please report any problems you encounter, or suggestions for improvements, as issues in this repository.
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
