@@ -26,6 +26,7 @@ This comprehensive Coaches Guide is designed to ensure that you are well-prepare
 * Microhack Topics
   * [RAG AI](https://github.com/microsoft/microhacks-rag-ai)
   * [Agentic AI](https://github.com/microsoft/microhacks-agentic-ai)
+  * [Trustworthy AI](https://github.com/microsoft/microhacks-trust-ai)
 * Delivery
   * Coaches
   * Attendee Teams
